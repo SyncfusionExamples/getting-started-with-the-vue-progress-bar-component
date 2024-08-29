@@ -10,7 +10,7 @@ Check out this online example of the Vue Progress Bar Component:
 https://ej2.syncfusion.com/vue/demos/#/material3/progress-bar/linear.html 
 
 
-Make sure that you have the latest versions of NodeJS and Visual Studio Code in your machine before starting to work on this project.
+Make sure that you have the latest versions of NodeJS, Vue, and Visual Studio Code in your machine before starting to work on this project.
 
 ### How to run this application?
 To run this application, you need to clone the `getting-started-with-the-vue-progress-bar-component` repository and then open it in Visual Studio Code. Now, simply install all the necessary vue packages into your current project using the `npm install` command and run your project using the `npm run dev` command.
